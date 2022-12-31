@@ -8,6 +8,8 @@ Professional: This is going to be an interesting year, because of...everything. 
 ### Fitness
 I'm targeting some measurable outcomes in my Barry's Bootcamp routine.
 
+Current targets for next quarter: https://github.com/ledwards/resolutions/milestone/2
+
 #### Project Tracker
 A number of goals start at 2022 Baseline. These are the weights and speeds I do comfortably, all the time. I don't even consider dropping below these, even if I'm tired or sore. These are the numbers I'm trying to increase!
 
