@@ -1,14 +1,16 @@
 # resolutions
-A public list of my New Year's resolutions and goals
+A public list of my New Year's resolutions and goals.
 
 ## 2023
-Personal: This is going to be a special year, because I'm getting married in September! Accordingly, I've got some shredding for the wedding goals.
-Professional: This is going to be an interesting year, because of...everything. Trying to figure out what my quantifiable goals this year will be. Edit to come.
+
+### [Public Progress Tracker](https://github.com/users/ledwards/projects/1/views/1)
+
+**Personal:** This is going to be a special year, because I'm getting married in September! Accordingly, I've got some shredding for the wedding goals.
+
+**Professional:** This is going to be an interesting year, because of...everything. Trying to figure out what my quantifiable goals this year will be. Edit to come.
 
 ### Fitness
 I'm targeting some measurable outcomes in my Barry's Bootcamp routine.
-
-Current targets for next quarter: https://github.com/ledwards/resolutions/milestone/2
 
 #### Project Tracker
 A number of goals start at 2022 Baseline. These are the weights and speeds I do comfortably, all the time. I don't even consider dropping below these, even if I'm tired or sore. These are the numbers I'm trying to increase!
@@ -18,6 +20,10 @@ I'll consider a metric the new baseline if I can do it every workout for 4 weeks
 Once I've done something four four weeks, I'll make it the new baseline and retire the goal/baseline it replaced. Hopefully, from there, I never go back.
 
 Frankly, the milestone I care most about is where I'm at come September. So call that Q3. If all goes well, I'll be doing 5 Barry's workouts a week and I'll have moved up every weight and speed at least once, actually twice with a few exceptions.
+
+[Current Milestones for This Quarter](https://github.com/ledwards/resolutions/milestone/2)
+
+[Burndown Chart for This Quarter](https://github.com/users/ledwards/projects/1/insights/3) because why not? 
 
 ### Work
 WIP!
